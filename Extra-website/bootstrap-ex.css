@@ -1,0 +1,71 @@
+body{
+    font-family: 'Merriweather';
+    
+}
+.nav-pills .nav-link{
+color: #076633; font-family: 'Merriweather'; font-weight: bold; font-size: large;font-size: 20px;
+}
+
+
+.d-flex .btn, .card-body btn{
+    background-color: #90c24b;
+}
+
+
+.list-unstyled{
+
+text-align: left;
+}
+
+.nav-pills{
+align-content: end;}
+.sch{
+    align-self: end;}
+
+    .justify-content-center {
+        justify-content: space-evenly!important;
+    }
+
+
+    .d-grid .btn{
+   
+        --bs-btn-border-color: #ffffff;
+        background-color: #90c24b;
+        color: #076633;
+        font-weight: bold;
+        border: 1px solid #076633;
+        text-align: center;
+    }
+
+    .d-grid .btn:hover{
+        background-color: #076633;
+        color:#90c24b;
+    }
+
+    .g-3, .gy-3 {
+        --bs-gutter-y: 1rem;
+        justify-content: center;
+    }
+
+    .mx-lg-auto {
+        margin-right: auto!important;
+        margin-left: auto!important;
+        border-radius: 20px !important;
+    }
+
+    footer{
+        background-color: #90c24b4a;
+
+    }
+  .px-2{
+    font-weight: BOLD;
+    color:#eaa9a9;
+  }
+
+  .border-bottom {
+    border-bottom: none!important; 
+}
+
+header{
+    background-color: #90c24b4a;
+}

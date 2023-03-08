@@ -1,0 +1,121 @@
+body{
+    font-family: 'Merriweather';
+    
+}
+.nav-pills .nav-link{
+color: #fcfaee; font-family: 'Merriweather'; font-weight: bold; font-size: large;font-size: 20px;
+}
+
+.nav-pills .nav-link:hover{
+    color: #ba383844;
+}
+
+.d-flex .btn{
+    font-family: 'Merriweather'; font-weight: bold; font-size: large;  color:#fcfaee; font-weight: bold; font-size: 20px; 
+    border: 1px solid #eaa9a9;
+    background-color: #ba383844;
+    margin-right: 10px;
+}
+
+.d-flex .btn:hover{
+    background-color: #fcfaee;
+    color:#eaa9a9;
+}
+.form-control{
+    font-family:  'Merriweather';
+    font-size: 22px;
+    margin-right: 2px;
+    border: var(--bs-border-width) solid #fcfaee;
+}
+
+
+p{
+    font-weight: bold;
+    text-align: justify;
+  text-justify: inter-word;
+}
+
+.card-body{
+    background-color: #fcfaee;
+}
+.container .shadow {
+    
+    background-color: #eaa9a9;
+}
+header {
+    background-color:#eaa9a9 ;
+    border-radius: 10px;
+}
+
+.fw-bold{
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.mx-lg-auto{
+    border-radius: 80px;
+}
+
+.lead{
+    font-weight: bold;
+}
+
+.d-grid .btn{
+   
+    --bs-btn-border-color: #ffffff;
+    background-color: #eaa9a9;
+    color: #fcfaee;
+    font-weight: bold;
+    border: 1px solid #fcfaee;
+    text-align: center;
+}
+
+.d-grid .btn:hover{
+    background-color: #fcfaee;
+    color:#eaa9a9;
+}
+.justify-content-md-start {
+    justify-content: center!important;
+}
+.justify-content-between {
+    justify-content: center!important;
+}
+
+.btn-primary {
+    --bs-btn-active-bg: #eaa9a9;
+    --bs-btn-active-border-color: #eaa9a9;
+}
+.btn-outline-secondary{
+    --bs-btn-active-bg: #eaa9a9;
+--bs-btn-active-border-color: #eaa9a9;
+}
+
+.btn{
+    --bs-btn-active-bg: #eaa9a9;
+    --bs-btn-active-border-color: #eaa9a9;
+}
+.g-3, .gy-3 {
+   
+    padding: 41px;
+    margin-top: 34px;
+}
+.footer .d-flex {
+    display: flex!important;
+    align-content: space-around;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-direction: column-reverse;}
+
+    .my-4 {
+        margin-top: 35.5rem !important;
+        margin-bottom: 1.5rem !important;
+    }
+
+    footer{
+        background-color: #fcfaee;
+
+    }
+  .px-2{
+    font-weight: BOLD;
+    color:#eaa9a9;
+  }
