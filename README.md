@@ -19,9 +19,7 @@
 
 
 ### **PAGES:**
-- **Page 1** 
   ![](images/page1.png)
-- **Page 2** 
-- ![](images/page2.png)
+  ![](images/page2.png)
 ***AWBGCE*** 🌼❤️ AMANI ZYOUD
 
