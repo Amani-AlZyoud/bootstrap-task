@@ -17,5 +17,11 @@
    * **Visual Studio Code ![](images/vs.png)**
    * **Bootstrap ![](images/bootstrap.png)**
 
+
+### **PAGES:**
+- **Page 1** 
+  ![](images/page1.png)
+- **Page 2** 
+- ![](images/page2.png)
 ***AWBGCE*** 🌼❤️ AMANI ZYOUD
 
